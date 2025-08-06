@@ -1,11 +1,11 @@
 {
-  "versionCode": "254",
-  "versionName": "2.23.9",
-  "downloadLink": "https://example.com/downloads/my_app_v1.0.1.apk",
+  "versionCode": "256",
+  "versionName": "2.23.11",
+  "downloadLink": "https://alabidimods.com/magic-eraser-pro",
   "forceUpdate": false,
-  "Title": "Awesome New Features!",
-  "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
-  "updateSize": "30.5 MB",
-  "releaseDate": "2023-10-27",
+  "Title": "✨ تحديثات مميزة في Magic Eraser!",
+  "Msg": "تم إضافة أدوات ذكاء اصطناعي احترافية:\n\n- إزالة الخلفية بدقة عالية.\n- إزالة العناصر غير المرغوب فيها بضغطة زر.\n- توسيع الصور باستخدام AI بطريقة ذكية.\n- تحسين جودة الصور تلقائيًا.\n- فلاتر ذكية جديدة لتعديل الصور.\n- دعم ميزة مرآة الذكاء الاصطناعي.\n- أدوات توليد الصور والنصوص باستخدام AI.\n- تحسينات على الأداء والاستقرار.",
+  "updateSize": "12.14 MB",
+  "releaseDate": "2025-08-07",
   "priority": "high"
 }
